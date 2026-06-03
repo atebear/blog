@@ -1,0 +1,57 @@
+name: Setup Hugo Site with Hugo-BearBlog Submodule
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Initialize Hugo site (if missing)
+        run: |
+          if [ ! -f config.toml ] && [ ! -f hugo.toml ]; then
+            hugo new site . --force
+          fi
+
+      - name: Add Hugo-BearBlog theme as submodule
+        run: |
+          if [ ! -d themes/hugo-bearblog ]; then
+            git submodule add https://github.com/janraasch/hugo-bearblog.git themes/hugo-bearblog
+          fi
+
+      - name: Create Hugo config
+        run: |
+          if [ ! -f hugo.toml ]; then
+            printf "baseURL = '/'\nlanguageCode = 'en-us'\ntitle = 'Ate Bear Blog'\ntheme = 'hugo-bearblog'\n" > hugo.toml
+          fi
+
+      - name: Create starter content
+        run: |
+          mkdir -p content
+          if [ ! -f content/_index.md ]; then
+            echo "# Welcome to Ate Bear Blog" > content/_index.md
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Initialize Hugo site with Hugo-BearBlog theme submodule" || echo "No changes to commit"
+          git push
