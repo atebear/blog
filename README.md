@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ![Ate Bear Contact Benner](https://atebear.pages.dev/cards/ate-bear-blog-contact-card-banner.png)
+
+✨ Name:\
+╰┈➤ˎˊ˗ [Ate Bear](https://github.com/atebear) 🧸
+
+📝 Blog:\
+╰┈➤ˎˊ˗ [ʕ•ᴥ•ʔ Ate Bear Blog](https://ate.bearblog.dev/notes)
+
+🌐 Website:\
+╰┈➤ˎˊ˗ [https://ate.bearblog.dev](https://ate.bearblog.dev)
+
+📧 Email:\
+╰┈➤ˎˊ˗ [atebearblog@proton.me](mailto:atebearblog@proton.me)
