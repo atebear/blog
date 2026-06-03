@@ -8,3 +8,7 @@ Site Information:
 - Theme: [Hugo-BearBlog](https://github.com/janraasch/hugo-bearblog)
     - Based on [BearBlog.dev](https://bearblog.dev)
     - Powered by [Hugo](https://gohugo.io/)
+
+# Changelog
+
+- Uploaded the 2026/05/30 version of the site
