@@ -1,6 +1,6 @@
-## Hi there 👋
-
 <!--
+# Hi there 👋
+
 **atebear/atebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ate Bear Contact Benner](https://atebear.pages.dev/cards/ate-bear-blog-contact-card-banner.png)
