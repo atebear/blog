@@ -1,3 +1,49 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "/"
+theme = 'hugo-bearblog'
+
+# Basic metadata configuration
+title = "ʕ•ᴥ•ʔ Ate Bear Blog"
+author = "Ate Bear"
+copyright = "Copyright © 2026 Ate Bear Blog"
+languageCode = "en-US"
+
+# Generate robots.txt for SEO
+enableRobotsTXT = true
+
+# Generate Bearblog-like URLs only. See https://bearblog.dev
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  notes = "/notes/:slug/"
+  tags = "/tags/:slug"
+
+[params]
+  # Used in the meta data of generated html
+  description = "Hey Bear friends :heart:"
+
+  # Favicon should be a square (at least 32px x 32px) png-file. Add into your static folder
+  favicon = "icons/bearblog.ico"
+
+  # Images used for structured data templates and to generate a preview of a link to your site. See https://gohugo.io/templates/internal
+  #images = ["images/share.png"]
+
+  # Title used as the site_name on the Hugo's internal opengraph structured data template. See https://ogp.me/
+  title = "ʕ•ᴥ•ʔ Ate Bear Blog"
+
+  # This theme will, by default, inject a made-with-line at the bottom of the page. You can turn it off, but we would really appreciate if you don’t :-).
+  hideMadeWithLine = false
+
+  # By default, if you want to read more than one blog post you have to always go back to the /blog page.
+  # By enabling this feature each blog post will have at the end a navigator
+  enablePostNavigator = true
+
+  # By default, this theme displays dates with a format like "02 Jan, 2006", but you can customize it by setting the `dateFormat` param in your site's config file. See https://gohugo.io/functions/format/ for details.
+  dateFormat = "2006/01/02"
+
+# Configure markup highlighter to match "Bearblog" aesthetics, see https://gohugo.io/configuration/markup/#highlight
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
