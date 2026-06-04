@@ -14,7 +14,7 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
-  notes = "/notes/:slug/"
+  notes = "/notes/:contentbasename/"
   tags = "/tags/:slug"
 
 [params]
