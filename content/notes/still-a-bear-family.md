@@ -5,6 +5,7 @@ alias:
 date: 2026-05-27T19:40:00+08:00
 description: "I know nothing will chnage between us. We're still a Bear family."
 draft: false
+type: blog
 tags:
 - bear-family
 - bears
