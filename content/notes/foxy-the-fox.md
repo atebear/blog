@@ -12,10 +12,6 @@ tags:
 - pets-in-the-garden-of-eden
 ---
 
-**Foxy The Fox εᐟᐠ>ﻌ<ᐟᐠз**
-
-*2026/05/28*
-
 I didn’t plan to tell anyone about this blog. Honestly.
 
 I thought I should maybe at least talk about it to Mama Bear, but I’m too shy 🤭
