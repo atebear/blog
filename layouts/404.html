@@ -1,0 +1,14 @@
+{{ define "title" }}404{{ end }}
+
+{{ define "main" }}
+
+<div class=".not-found">
+  <h1>404</h1>
+  <h2>ʕノ•ᴥ•ʔノ ︵ ┻━┻</h2>
+  {{ if .Site.Params.notFoundImage }}
+  <img alt="Page Not Found" src="{{ .Site.Params.notFoundImage }}">
+  {{ end }}
+  {{ if .Site.Params.notFoundText }}{{ .Site.Params.notFoundImage }}{{ end }}
+</div>
+
+{{ end }}
