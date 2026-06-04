@@ -13,6 +13,8 @@
   {{ .Content }}
 </content>
 
+{{ partial "showlastmod" . }}
+
 {{ if eq .Type "blog" }}{{ if (.Param "enablePostNavigator")}}
 {{- partial "post_navigator.html" . -}}
 {{ end }}{{ end }}
