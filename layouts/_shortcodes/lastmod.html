@@ -1,29 +1,39 @@
 {{- $lastmod := .Page.Lastmod -}}
-{{- /* Fallback to PublishDate if Lastmod is empty */ -}}
 {{- if not $lastmod -}}
   {{- $lastmod = .Page.PublishDate -}}
 {{- end -}}
 
 {{- if $lastmod -}}
-  {{- $duration := now.Sub $lastmod -}}
-  
-  {{- if ge $duration.Minutes 1440 -}}
-    {{- /* 1440 minutes = 1 day */ -}}
-    {{- $days := math.Floor (div $duration.Seconds 86400) -}}
-    Last edited: {{ $days }} day{{ if ne $days 1 }}s{{ end }} ago
-  {{- else if ge $duration.Minutes 60 -}}
-    {{- /* Show hours if less than a day */ -}}
-    {{- $hours := math.Floor (div $duration.Hours 1) -}}
-    Last edited: {{ $hours }} hour{{ if ne $hours 1 }}s{{ end }} ago
-  {{- else if ge $duration.Minutes 1 -}}
-    {{- /* Show minutes if less than an hour */ -}}
-    {{- $minutes := math.Floor (div $duration.Minutes 1) -}}
-    Last edited: {{ $minutes }} minute{{ if ne $minutes 1 }}s{{ end }} ago
-  {{- else -}}
-    {{- /* Show seconds if less than a minute */ -}}
-    {{- $seconds := math.Floor $duration.Seconds -}}
-    Last edited: {{ $seconds }} second{{ if ne $seconds 1 }}s{{ end }} ago
-  {{- end -}}
+  <span id="lastmod-text">Loading...</span>
+  <script>
+    (function() {
+      // Hugo injects the exact timestamp here
+      const timestamp = "{{ $lastmod.Format "2006-01-02T15:04:05Z07:00" }}"; 
+      const lastMod = new Date(timestamp).getTime();
+      const now = new Date().getTime();
+      const diff = now - lastMod;
+
+      let text = "";
+
+      if (diff < 0) {
+        text = "Last edited: Just now";
+      } else if (diff < 60000) {
+        const seconds = Math.floor(diff / 1000);
+        text = `Last edited: ${seconds} second${seconds !== 1 ? 's' : ''} ago`;
+      } else if (diff < 3600000) {
+        const minutes = Math.floor(diff / 60000);
+        text = `Last edited: ${minutes} minute${minutes !== 1 ? 's' : ''} ago`;
+      } else if (diff < 86400000) {
+        const hours = Math.floor(diff / 3600000);
+        text = `Last edited: ${hours} hour${hours !== 1 ? 's' : ''} ago`;
+      } else {
+        const days = Math.floor(diff / 86400000);
+        text = `Last edited: ${days} day${days !== 1 ? 's' : ''} ago`;
+      }
+
+      document.getElementById("lastmod-text").textContent = text;
+    })();
+  </script>
 {{- else -}}
-  No modification date available.
+  <span>No modification date available.</span>
 {{- end -}}
