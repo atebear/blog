@@ -5,14 +5,11 @@ alias:
 date: 2026-04-23T12:40:00+08:00
 description: 'How I celebrated my "bear-day" with my bear family'
 draft: false
+type: blog
 tags:
 - bear-family
 - bears
 ---
-
-**My Bear-Day ʕ•ᴥ•ʔ**
-
-*2026/04/23*
 
 I celebrated my "bear-day" this month in a forest near a river during Holy Week. I was with my bear family—and it also happened to be the first day of our church’s annual family camp.
 
