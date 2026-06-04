@@ -167,8 +167,7 @@ ul.blog-posts li a:visited {
     color: var(--visited-color);
 }
 
-ul.blog-posts::before {
-    content: "Notes ᝰ.ᐟ";
+ul.blog-posts h1 {
     font-weight: bold;
     padding-bottom: 20px;
     display: inline-block;
