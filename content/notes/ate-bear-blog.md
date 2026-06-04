@@ -4,6 +4,7 @@ alias: ate-bear-blog
 date: 2026-04-22T10:18:00+08:00
 description: 'Where the name "Ate Bear" came from'
 draft: false
+type: blog
 tags:
 - bear-family
 - bear-system
