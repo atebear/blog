@@ -101,3 +101,9 @@ ignoreErrors = ["error-disable-taxonomy"]
 #    name = 'Privacy'
 #    pageRef = '/privacy'
 #    weight = 20
+
+[sitemap]
+  changeFreq = 'daily'
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
