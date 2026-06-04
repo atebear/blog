@@ -111,10 +111,6 @@
     text-align: center;
   }
 
-  footer::before {
-  content: "2026 © Ate Bear Blog. All Rights Reserved.";
-  }
-
 /*  .title:hover {
     text-decoration: none;
   } */
