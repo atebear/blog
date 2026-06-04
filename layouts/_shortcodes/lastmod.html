@@ -9,19 +9,19 @@
   
   {{- if ge $duration.Minutes 1440 -}}
     {{- /* 1440 minutes = 1 day */ -}}
-    {{- $days := div $duration.Seconds 86400 | floor -}}
+    {{- $days := math.Floor (div $duration.Seconds 86400) -}}
     Last edited: {{ $days }} day{{ if ne $days 1 }}s{{ end }} ago
   {{- else if ge $duration.Minutes 60 -}}
     {{- /* Show hours if less than a day */ -}}
-    {{- $hours := div $duration.Hours 1 | floor -}}
+    {{- $hours := math.Floor (div $duration.Hours 1) -}}
     Last edited: {{ $hours }} hour{{ if ne $hours 1 }}s{{ end }} ago
   {{- else if ge $duration.Minutes 1 -}}
     {{- /* Show minutes if less than an hour */ -}}
-    {{- $minutes := div $duration.Minutes 1 | floor -}}
+    {{- $minutes := math.Floor (div $duration.Minutes 1) -}}
     Last edited: {{ $minutes }} minute{{ if ne $minutes 1 }}s{{ end }} ago
   {{- else -}}
     {{- /* Show seconds if less than a minute */ -}}
-    {{- $seconds := $duration.Seconds | floor -}}
+    {{- $seconds := math.Floor $duration.Seconds -}}
     Last edited: {{ $seconds }} second{{ if ne $seconds 1 }}s{{ end }} ago
   {{- end -}}
 {{- else -}}
