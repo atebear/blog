@@ -10,10 +10,6 @@ tags:
 - bearblog
 ---
 
-**Ate Bear Joined BearBlog ʕ•ᴥ•ʔ**
-
-*2026/04/21*
-
 Last night, I was working on a project for our “future” media team using our church laptop. I had files stored in a separate [Gmail](https://gmail.com) account dedicated to that project, and I needed an easy way to transfer them across devices.
 
 At first, I used [Google Sites](https://sites.google.com). It was convenient—quick to set up, easy to access, and the links weren’t too long to remember. Everything seemed fine.
