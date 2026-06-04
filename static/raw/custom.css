@@ -169,4 +169,5 @@ ul.blog-posts li a:visited {
 
 ul.blog-posts h1 {
     font-weight: bold;
+    display: inline-block;
 }
