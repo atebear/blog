@@ -40,6 +40,9 @@ ignoreErrors = ["error-disable-taxonomy"]
   # By default, this theme displays dates with a format like "02 Jan, 2006", but you can customize it by setting the `dateFormat` param in your site's config file. See https://gohugo.io/functions/format/ for details.
   dateFormat = "2006/01/02"
 
+  # This tells Hugo to use the timestamp of the last Git commit for the page as the lastmod date
+  enableGitInfo = true
+
   # Custom: Footer Copyright
   copyrightFooter = "2026 © Ate Bear Blog. All Rights Reserved."
 
