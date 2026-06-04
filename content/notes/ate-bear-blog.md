@@ -11,10 +11,6 @@ tags:
 - bears
 ---
 
-**Backstory of Ate Bear ʕ•ᴥ•ʔ**
-
-*2026/04/22*
-
 In our church community, I started giving people animal call signs. Some call me “bunny” 🐰, others call me “ducky” 🦆.
 
 But in one specific group, we became a family of bears 🐻.
