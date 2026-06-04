@@ -41,7 +41,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   dateFormat = "2006/01/02"
 
   # Custom: Footer Copyright
-  copyrightFooter = "2026 &copy; Ate Bear Blog. All Rights Reserved."
+  copyrightFooter = "2026 © Ate Bear Blog. All Rights Reserved."
 
 # Configure markup highlighter to match "Bearblog" aesthetics, see https://gohugo.io/configuration/markup/#highlight
 [markup]
