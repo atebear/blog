@@ -4,6 +4,7 @@ alias:
 - ate-bear-joined-bearblog
 date: 2026-04-21T10:17:00+08:00
 draft: false
+type: blog
 description: How I found BearBlog and joined as Ate Bear
 tags:
 - bearblog
