@@ -1,2 +1,2 @@
-{{ .copyright }}
+{{ if .Site.copyright }}{{ .Site.copyright }}{{ end }}
 {{ if not (.Param "hideMadeWithLine") }}Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>{{ end }}
