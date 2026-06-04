@@ -5,6 +5,7 @@ alias:
 date: 2026-05-28T22:05:00+08:00
 description: 'A Fox Joined the Kingdom'
 draft: false
+type: blog
 tags:
 - animal-kingdom
 - foxy-the-fox
