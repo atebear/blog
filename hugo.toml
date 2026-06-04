@@ -40,6 +40,9 @@ ignoreErrors = ["error-disable-taxonomy"]
   # By default, this theme displays dates with a format like "02 Jan, 2006", but you can customize it by setting the `dateFormat` param in your site's config file. See https://gohugo.io/functions/format/ for details.
   dateFormat = "2006/01/02"
 
+  # Custom: Footer Copyright
+  copyrightFooter = "2026 &copy; Ate Bear Blog. All Rights Reserved."
+
 # Configure markup highlighter to match "Bearblog" aesthetics, see https://gohugo.io/configuration/markup/#highlight
 [markup]
   [markup.highlight]
