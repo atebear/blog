@@ -43,6 +43,10 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Custom: Footer Copyright
   copyrightFooter = "2026 © Ate Bear Blog. All Rights Reserved."
 
+  # Custom: 404 Page
+  notFoundImage = "/images/lost-bear-banner-version-2.png"
+  notFoundText = ""
+
 # Configure markup highlighter to match "Bearblog" aesthetics, see https://gohugo.io/configuration/markup/#highlight
 [markup]
   [markup.highlight]
