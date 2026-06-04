@@ -1,10 +1,10 @@
-baseURL = "/"
+baseURL = "https://atebear.pages.dev/"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration
 title = "ʕ•ᴥ•ʔ Ate Bear Blog"
 author = "Ate Bear"
-copyright = "Copyright © 2026 Ate Bear Blog"
+copyright = "Copyright © Ate Bear Blog"
 languageCode = "en-US"
 
 # Generate robots.txt for SEO
@@ -47,6 +47,9 @@ ignoreErrors = ["error-disable-taxonomy"]
   notFoundImage = "/images/lost-bear-banner-version-2.png"
   notFoundText = ""
 
+  # Custom: Blog List Title
+  blogListTitle = "Notes ᝰ.ᐟ"
+
 # Configure markup highlighter to match "Bearblog" aesthetics, see https://gohugo.io/configuration/markup/#highlight
 [markup]
   [markup.highlight]
@@ -80,13 +83,13 @@ ignoreErrors = ["error-disable-taxonomy"]
     pageRef = '/now'
     weight = 30
 #  [[menus.main]]
-#    name = 'Hugo'
-#    pre = '<i class="fa fa-heart"></i>'
-#    url = 'https://gohugo.io/'
+#    name = 'GitHub'
+#    pre = '<i class="fa fa-github"></i>'
+#    url = 'https://github.com/atebear/'
 #    weight = 40
 #    [menus.main.params]
 #      rel = 'external'
-#[menus]
+
 #  [[menus.footer]]
 #    name = 'Terms'
 #    pageRef = '/terms'
