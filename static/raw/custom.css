@@ -139,14 +139,14 @@
     width: max-content;
   } */
 
-  .not-found div::after {
-    content: "";
+  /* 404 Error */
+  div.not-found {
     display: inline-block;
+  }
+
+  .not-found img {
     width: 100%;
     height: 100%;
-    background-image: url("/images/lost-bear-banner-version-2.png");
-    background-size: contain;
-    background-repeat: no-repeat;
   }
 
   /* blog post list */
