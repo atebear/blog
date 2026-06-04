@@ -11,10 +11,6 @@ tags:
 - bears
 ---
 
-**We’re Still a Bear Family ʕ•ᴥ•ʔ**
-
-*2026/05/27*
-
 I’m still very sad about it.
 
 My Bear family is no longer attending our church.
