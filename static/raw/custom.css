@@ -176,3 +176,15 @@ ul.blog-posts h1 {
     font-weight: bold;
     display: inline-block;
 }
+
+/* Dynamic LastMod */
+#lastmod-text, .dynamic-lastmod {
+    font-size: var(--font-scale);
+    color: var(--code-color);
+    font-style: italic;
+    font-weight: bold;
+}
+
+.dynamic-lastmod {
+    margin-bottom: 1.5rem;
+}
