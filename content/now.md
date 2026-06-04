@@ -11,8 +11,8 @@ draft: false
 ### 🎯 Goals
 - ✅️ Have a backup website for my BearBlog
 
-<!-- <br>
+<br>
 
 ---
 
-<small>**Last edited {{ post_last_modified }} ago**.</small> -->
+<small>**{{< lastmod >}}**.</small>
