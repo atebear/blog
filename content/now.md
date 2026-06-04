@@ -2,6 +2,7 @@
 title: Now # alias: - now
 date: 2026-05-28T22:55:00+08:00 # description: ''
 draft: false
+showLastMod: true
 ---
 
 ### 🌱 Currently learning...
@@ -15,4 +16,4 @@ draft: false
 
 ---
 
-<small>**{{< lastmod >}}**.</small>
+<small>**{{< lastmod >}}**</small>
