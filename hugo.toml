@@ -13,13 +13,14 @@ enableRobotsTXT = true
 # This tells Hugo to use the timestamp of the last Git commit for the page as the lastmod date
 enableGitInfo = true
 
+disablealiases = true # Enable using Aliases
+
 # Generate Bearblog-like URLs only. See https://bearblog.dev
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
   notes = "/notes/:contentbasename/"
   tags = "/tags/:slug"
-  disablealiases = true # Enable using Aliases
 
 [params]
   # Used in the meta data of generated html
