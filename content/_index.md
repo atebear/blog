@@ -3,14 +3,14 @@ title: "" # menu: "main" weight: 1
 showLastMod: true
 ---
 
-> [!IMPORTANT] 
-> This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev)
+> [!IMPORTANT] This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev)
+> 
 
-> [!WARNING]
-> This website is still under construction 🚧
+> [!WARNING] This website is still under construction 🚧
+> 
 
 > [!CAUTION] Some links might be broken
-> .
+> 
 
 <br>
 
