@@ -73,31 +73,31 @@ ignoreErrors = ["error-disable-taxonomy"]
 [menus]
   [[menus.main]]
     name = '[about]'
-    pageRef = '/about'
+    pageRef = '/about/'
     weight = 10
   [[menus.main]]
     name = '[contact]'
-    pageRef = '/contact'
+    pageRef = '/contact/'
     weight = 20
   [[menus.main]]
     name = '[notes]'
-    pageRef = '/notes'
+    pageRef = '/notes/'
     weight = 30
   [[menus.main]]
     name = '[now]'
-    pageRef = '/now'
+    pageRef = '/now/'
     weight = 40
   [[menus.main]]
     name = '[slashes]'
-    pageRef = '/slashes'
+    pageRef = '/slashes/'
     weight = 50
   [[menus.main]]
     name = '[collections]'
-    pageRef = '/collections'
+    pageRef = '/collections/'
     weight = 60
   [[menus.main]]
     name = '[log]'
-    pageRef = '/changelog'
+    pageRef = '/log/'
     weight = 70
 #  [[menus.main]]
 #    name = 'Hardware'
