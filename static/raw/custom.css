@@ -220,8 +220,8 @@ details {
 /* Alerts / Callouts / Admonition */
 .alert {
   display: flex;
-  gap: 0.25rem;
-  padding: 0.25rem;
+  gap: .5rem;
+  padding: 1rem;
   margin: 1rem 0;
   border-radius: 6px;
   border-left: 4px solid;
@@ -267,6 +267,7 @@ details {
   flex-grow: 1;
 }
 
-/* .alert-body {
+.alert-body {
   margin-top: 0.25rem;
-} */
+  padding: 1rem;
+}
