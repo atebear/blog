@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact ʕ•ᴥ•ʔ
 alias:
 - contact
 date: 2026-04-21T05:20:00+08:00
@@ -7,7 +7,7 @@ description: 'Reach out & know more about Ate Bear'
 draft: false
 ---
 
-## **Contact**
+## **Contact ʕ•ᴥ•ʔ**
 
 Email:\
 ╰┈➤ˎˊ˗ [atebearblog@proton.me](mailto:atebearblog@proton.me)
@@ -18,8 +18,8 @@ ___
 
 - <small>**Wonder how I joined BearBlog?** [Read here](/notes/ate-bear-joined-bearblog)</small>
 - <small>**Wanna know my backstory?** [Read here](/notes/ate-bear-blog)</small>
-- <small>**Looking for RSS?** [Check here](/index.xml/)</small>
-- <small>**Looking for Sitemap?** [Check here](/sitemap.xml/)</small>
+- <small>**Looking for RSS?** [Check here](/index.xml)</small>
+- <small>**Looking for Sitemap?** [Check here](/sitemap.xml)</small>
 
 ___
 
