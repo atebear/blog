@@ -12,18 +12,6 @@ showLastMod: true
 > [!CAUTION] Some links might be broken
 > 
 
-> [!TIP]- This is a helpful tip!
-> Here is a helpful tip.
-
-> [!NOTE]+ title
-> This is **open** by default.
-
-> [!WARNING]- tile
-> This is **closed** by default.
-
-> [!TIP]
-> This is a standard static callout.
-
 <br>
 
 {{< details summary="Welcome to my cave!" >}}
