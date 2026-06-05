@@ -44,7 +44,7 @@ STATUS: Up and running but still working on it 🧸
 
 ## 🎯 Goals
 {{< details summary="🌐 Backup website for my BearBlog" >}}
-╰┈➤ˎˊ˗ [atebear.pages.dev](https://atebear.pages.dev] ✅️ Done: 2026/05/28
+╰┈➤ˎˊ˗ [atebear.pages.dev](https://atebear.pages.dev) ✅️ Done: 2026/05/28
 {{< /details >}}
 
 {{< details summary="📇 Collections page" >}}
