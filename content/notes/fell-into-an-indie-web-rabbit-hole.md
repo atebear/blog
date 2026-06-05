@@ -7,7 +7,7 @@ tags:
 - contact-cards
 - indie-web
 - site-updates
--btech-nerd-stuff
+- tech-nerd-stuff
 - update-from-my-cave
 - website-banners
 ---
