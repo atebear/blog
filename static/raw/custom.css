@@ -220,39 +220,39 @@ details {
 /* Alerts / Callouts / Admonition */
 .alert {
   display: flex;
-  gap: 1rem;
-  padding: 1rem;
-  margin: 1.5rem 0;
+  gap: .5rem;
+  padding: .5rem;
+  margin: 1rem 0;
   border-radius: 6px;
   border-left: 4px solid;
   background-color: #f8f9fa;
 }
 
-.alert-note {
+.alert-note, .alert-note > * {
   border-color: #2196f3;
   background-color: #e3f2fd;
   color: #0d47a1;
 }
 
-.alert-tip {
+.alert-tip, .alert-tip > * {
   border-color: #4caf50;
   background-color: #e8f5e9;
   color: #1b5e20;
 }
 
-.alert-important {
+.alert-important, .alert-important > * {
   border-color: #9c27b0;
   background-color: #f3e5f5;
   color: #4a148c;
 }
 
-.alert-warning {
+.alert-warning .alert-warning > *{
   border-color: #ff9800;
   background-color: #fff3e0;
   color: #e65100;
 }
 
-.alert-caution {
+.alert-caution, .alert-caution > * {
   border-color: #f44336;
   background-color: #ffebee;
   color: #b71c1c;
