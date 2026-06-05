@@ -216,3 +216,57 @@ details {
 
 /* target the content */
 /*details > :not(summary) { }*/
+
+/* Alerts / Callouts / Admonition */
+.alert {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 6px;
+  border-left: 4px solid;
+  background-color: #f8f9fa;
+}
+
+.alert-note {
+  border-color: #2196f3;
+  background-color: #e3f2fd;
+  color: #0d47a1;
+}
+
+.alert-tip {
+  border-color: #4caf50;
+  background-color: #e8f5e9;
+  color: #1b5e20;
+}
+
+.alert-important {
+  border-color: #9c27b0;
+  background-color: #f3e5f5;
+  color: #4a148c;
+}
+
+.alert-warning {
+  border-color: #ff9800;
+  background-color: #fff3e0;
+  color: #e65100;
+}
+
+.alert-caution {
+  border-color: #f44336;
+  background-color: #ffebee;
+  color: #b71c1c;
+}
+
+.alert-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+.alert-content {
+  flex-grow: 1;
+}
+
+.alert-body {
+  margin-top: 0.25rem;
+}
