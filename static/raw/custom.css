@@ -116,6 +116,13 @@ small {
     font-size: var(--font-small) !important;
 }
 
+mark {
+  background-color: #ffeb3b; /* yellow */
+  color: var(--text-color);
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
 /* .title:hover {
     text-decoration: none;
 } */
