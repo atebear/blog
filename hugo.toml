@@ -87,6 +87,18 @@ ignoreErrors = ["error-disable-taxonomy"]
     name = '[now]'
     pageRef = '/now'
     weight = 40
+  [[menus.main]]
+    name = '[slashes]'
+    pageRef = '/slashes'
+    weight = 50
+  [[menus.main]]
+    name = '[collections]'
+    pageRef = '/collections'
+    weight = 60
+  [[menus.main]]
+    name = '[log]'
+    pageRef = '/changelog'
+    weight = 70
 #  [[menus.main]]
 #    name = 'Hardware'
 #    pageRef = '/products/hardware'
