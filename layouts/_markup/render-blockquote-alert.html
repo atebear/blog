@@ -1,0 +1,26 @@
+{{ $emojis := dict 
+  "caution" "⚠️" 
+  "important" "💡" 
+  "note" "ℹ️" 
+  "tip" "💡" 
+  "warning" "⚠️" 
+}}
+
+{{ $type := .AlertType }}
+{{ $title := .AlertTitle }}
+{{ $text := .Text }}
+{{ $icon := or (index $emojis $type) "💡" }}
+
+<div class="alert alert-{{ $type }}">
+  <div class="alert-icon">{{ $icon }}</div>
+  <div class="alert-content">
+    {{ if $title }}
+      <strong>{{ $title }}</strong>
+    {{ else }}
+      <strong>{{ title $type }}</strong>
+    {{ end }}
+    <div class="alert-body">
+      {{ $text }}
+    </div>
+  </div>
+</div>
