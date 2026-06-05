@@ -4,8 +4,7 @@ showLastMod: true
 ---
 
 > [!NOTE] 
-> <small> This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev)\
-> For inquiries, visit [/contact](/contact) page.</small>
+> This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev)
 
 <br>
 
