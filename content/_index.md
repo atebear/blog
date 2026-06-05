@@ -6,6 +6,12 @@ showLastMod: true
 > [!IMPORTANT] 
 > This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev)
 
+> [!WARNING]
+> This website is still under construction 🚧
+
+> [!CAUTION]
+> Some links might be broken <i class="fa fa-link-broken"></i>
+
 <br>
 
 {{< details summary="Welcome to my cave!" >}}
