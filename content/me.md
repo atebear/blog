@@ -2,7 +2,7 @@
 title: About ʕ•ᴥ•ʔ
 alias:
 - about
-date: 2026-04-21T05:20:00+08:00
+date: 2026-05-30T01:35:00+08:00
 description: ''
 draft: false
 ---
