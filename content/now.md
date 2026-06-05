@@ -44,11 +44,11 @@ STATUS: Up and running but still working on it 🧸
 
 ## 🎯 Goals
 {{< details summary="🌐 Backup website for my BearBlog" >}}
-╰┈➤ˎˊ˗ <a href="Https://atebear.pages.dev" target="_blank">atebear.pages.dev</a> ✅️ Done: 2026/05/28
+╰┈➤ˎˊ˗ [atebear.pages.dev](https://atebear.pages.dev] ✅️ Done: 2026/05/28
 {{< /details >}}
 
 {{< details summary="📇 Collections page" >}}
-╰┈➤ˎˊ˗ <a href="/collections" target="_self">Check them out here</a> ✅️ Done: 2026/05/31
+╰┈➤ˎˊ˗ [Check them out here](/collections) ✅️ Done: 2026/05/31
 {{< /details >}}
 
 {{< details summary="📂 Going Open-Source" >}}
