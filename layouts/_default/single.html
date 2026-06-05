@@ -1,4 +1,9 @@
 {{ define "main" }}
+
+{{ if eq .Type "page" }}{{ if .Params.menu }}
+<h1 class="page-title">{{ .Title }}</h1>
+{{ end }}{{ end }}
+
 {{ if eq .Type "blog" }}{{ if not .Params.menu }}
 <h1 class="blog-title">{{ .Title }}</h1>
 <p>
@@ -9,6 +14,7 @@
   </i>
 </p>
 {{ end }}{{ end }}
+
 <content>
   {{ .Content }}
 </content>
