@@ -3,7 +3,7 @@ title: "" # menu: "main" weight: 1
 showLastMod: true
 ---
 
-> [!NOTE] 
+> [!IMPORTANT] 
 > This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev)
 
 <br>
