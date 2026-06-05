@@ -17,7 +17,7 @@ I recently published my *[Now page](/now)*!
 
 Think of it as a more relevant and interesting version of an **About page** — inspired by [nownownow.com](https://nownownow.com)
 
-It’s basically a page where I keep an up-to-date list of ==the things I’m currently focusing on== and ==what I’ve been doing lately==.
+It’s basically a page where I keep an up-to-date list of <mark>the things I’m currently focusing on</mark> and <mark>what I’ve been doing lately</mark>.
 
 ---
 
@@ -51,7 +51,7 @@ And just like [Herman](https://herman.bearblog.com), the person behind [BearBlog
 
 Honestly, I was a blogger before I learned how to code.
 
-And when I eventually learned how to build websites, ==I became obsessed with finding ways to create websites completely free — with no ads and no unnecessary clutter whatsoever==.
+And when I eventually learned how to build websites, <mark>I became obsessed with finding ways to create websites completely free — with no ads and no unnecessary clutter whatsoever</mark>.
 
 I finally achieved that in 2023 🎉 when I discovered static site generators like [Hugo](https://gohugo.io) and [Hexo](https://hexo.com).
 
