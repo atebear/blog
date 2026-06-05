@@ -1,5 +1,5 @@
 ---
-title: Contact ʕ•ᴥ•ʔ
+title: Contact ʕ•ᴥ•ʔﾉ♡
 alias:
 - contact
 date: 2026-04-21T05:20:00+08:00
