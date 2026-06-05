@@ -1,0 +1,45 @@
+---
+title: Slashes
+aliases:
+  - "/slash/"
+  - "/slashpages/"
+date: 2026-06-05T22:03:00+08:00
+description: 'Slash pages are common pages you can add to your website.'
+draft: false
+showLastMod: true
+---
+
+Slash pages are common pages you can add to your website\
+<small>(See [slashpages.net](https://slashpages.net) for more info)</small>
+
+- [/about](/about)
+- /ai
+- [/blank](/blank)
+- /blogroll
+- [/changelog or /log](/changelog)
+- /colophon
+- [/contact](/contact)
+- /ideas
+- /interest
+- /languages
+- /links or /bookmarks
+- /next
+- /nope
+- [/now](/now)
+- /pfp
+- /posse
+- /postroll
+- /questions 
+- /save or /referrals
+- /since
+- [/sitemap](/sitemap.xml)
+- [/slashes](/slashes)
+- /someday
+- /tils or /ways
+- /tip or /pay or /coffee
+- /top4
+- /uses
+- /wish
+- /yep
+
+＼ʕ •ᴥ•ʔ／
