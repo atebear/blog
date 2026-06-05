@@ -8,6 +8,8 @@ draft: false
 showLastMod: true
 ---
 
+<br>
+
 {{< details summary="Welcome to my Now page! ˙𐃷˙" >}}
 ℹ️ What is a "Now" page?\
 Think of it as a more relevant and interesting "About" page.\
@@ -19,43 +21,43 @@ Inspired by [nownownow.com](https://nownownow.com)
 <br>
 
 ## 🛠 Currently doing...
-<details><summary>🌱 Learning Hugo</summary>
+{{< details summary="🌱 Learning Hugo" >}}
 <small>I love Hugo and I can't believe I'm learning it just now. Well, maybe because I had to do it this time. 😅 2026/06/03</small>
-</details>
+{{< /details >}}
 
-<details><summary>🏗️ Building my own Status.cafe</summary>
+{{< details summary="🏗️ Building my own Status.cafe" >}}
 <small>Yes, you read that right! 😊 I'm making my own Status.cafe and it'll only be for my site's use. But don't worry, I'll share my journey once I finished it and will help you how to build your own. 2026/06/01</small>
-</details>
+{{< /details >}}
 
 <br>
 
 ## 🚀 Focusing on...
-<details><summary>🐻 Customizing my BearBlog site</summary>
+{{< details summary="🐻 Customizing my BearBlog site" >}}
 Considered it done as for now ✅️ Done: 2026/06/03
-</details>
+{{< /details >}}
 
-<details><summary>🔲 Customizing my backup site</summary>
+{{< details summary="🔲 Customizing my backup site" >}}
 STATUS: Up and running but still working on it 🧸
-</details>
+{{< /details >}}
 
 <br>
 
 ## 🎯 Goals
-<details><summary>🌐 Backup website for my BearBlog</summary>
+{{< details summary="🌐 Backup website for my BearBlog" >}}
 ╰┈➤ˎˊ˗ <a href="Https://atebear.pages.dev" target="_blank">atebear.pages.dev</a> ✅️ Done: 2026/05/28
-</details>
+{{< /details >}}
 
-<details><summary>📇 Collections page</summary>
+{{< details summary="📇 Collections page" >}}
 ╰┈➤ˎˊ˗ <a href="/collections" target="_self">Check them out here</a> ✅️ Done: 2026/05/31
-</details>
+{{< /details >}}
 
-<details><summary>📂 Going Open-Source</summary>
+{{< details summary="📂 Going Open-Source" >}}
 I'm planning to open-sourced my backup and status sites. Just stay tuned. 2026/06/03
-</details>
+{{< /details >}}
 
-<details><summary>🌙 Integrating Dark Mode</summary>
+{{< details summary="🌙 Integrating Dark Mode" >}}
 This theme's all white background sometimes hurts my eyes 🫩 so having a dark mode version is a MUST!
-</details>
+{{< /details >}}
 
 <br>
 
