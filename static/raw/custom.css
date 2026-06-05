@@ -8,6 +8,7 @@
   	--font-main: 'Special Elite', monospace;
     --font-secondary: 'Special Elite', monospace;
     --font-scale: 20px;
+    --font-small: 15px;
     --background-color: #fbfbf6;
     --heading-color: #333;
     --text-color: #333;
@@ -112,7 +113,7 @@ footer {
 }
 
 small {
-    font-size: 16px;
+    font-size: var(--font-small) !important;
 }
 
 /* .title:hover {
@@ -189,3 +190,17 @@ ul.blog-posts h1 {
     font-weight: bold;
     margin-bottom: 1.5rem;
 }
+
+/* target the details element */
+details { }
+
+/* target the summary element */
+details > summary {
+    margin-top: 2px;
+}
+
+/* target the children of the summary element */
+details > summary > * { }
+
+/* target the content */
+details > :not(summary) { }
