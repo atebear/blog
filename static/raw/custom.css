@@ -277,3 +277,8 @@ details > :not(summary) {
   margin-top: 0.25rem;
   padding: 0;
 }
+
+/* Badges */
+.badge-link {
+    text-decoration: none;
+}
