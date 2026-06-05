@@ -1,6 +1,9 @@
 ---
-title: Now # alias: - now
-date: 2026-05-28T22:55:00+08:00 # description: ''
+title: Now ˙𐃷˙
+alias:
+- nowpage
+date: 2026-05-28T22:55:00+08:00
+description: "Here I keep an up-to-date list of the things I'm focusing on and what I'm doing."
 draft: false
 showLastMod: true
 ---
