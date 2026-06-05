@@ -7,12 +7,6 @@ showLastMod: true
 > [!IMPORTANT] This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev)
 > 
 
-> [!WARNING] This website is still under construction 🚧
-> 
-
-> [!CAUTION] Some links might be broken
-> 
-
 <br>
 
 {{< details summary="Welcome to my cave!" >}}
@@ -20,7 +14,7 @@ showLastMod: true
 {{< /details >}}
 
 {{< details summary="I’m Ate Bear 🧸" >}}
-<small>“Ate Bear” is a pen name I use for privacy, so while the bear theme may sound playful, the stories and experiences here are real.</small>
+<small>“Ate Bear” is a pen name I use for privacy, so while the bear theme may sound playful, the stories and experiences here are real. Know more about me at my [about page](/about)</small>
 {{< /details >}}
 
 ![“Ate” means older sister in Tagalog. (Not the past tense of eating. No bears were harmed.)](https://atebear.pages.dev/images/minimalist-ate-bear-meme-banner.png)
