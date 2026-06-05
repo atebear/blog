@@ -15,10 +15,10 @@ showLastMod: true
 > [!TIP]- This is a helpful tip!
 > Here is a helpful tip.
 
-> [!NOTE]+
+> [!NOTE]+ title
 > This is **open** by default.
 
-> [!WARNING]-
+> [!WARNING]- tile
 > This is **closed** by default.
 
 > [!TIP]
