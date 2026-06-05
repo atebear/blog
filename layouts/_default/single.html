@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+<div class="title-block>
 {{ if eq .Type "page" }}{{ if .Params.menu }}
 <h1 class="page-title">{{ .Title }}</h1>
 {{ end }}{{ end }}
@@ -14,7 +15,8 @@
   </i>
 </p>
 {{ end }}{{ end }}
-
+</div>
+  
 <content>
   {{ .Content }}
 </content>
