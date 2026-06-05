@@ -20,6 +20,9 @@ ignoreErrors = ["error-disable-taxonomy"]
   notes = "/notes/:contentbasename/"
   tags = "/tags/:slug"
 
+# Enable using Aliases
+disableAliases = true
+
 [params]
   # Used in the meta data of generated html
   description = "Hey Bear friends :heart:"
@@ -121,3 +124,15 @@ ignoreErrors = ["error-disable-taxonomy"]
   disable = false
   filename = 'sitemap.xml'
   priority = -1
+
+[mediaTypes]
+  [mediaTypes.'text/redirects']
+    delimiter = ''
+[outputFormats]
+  [outputFormats.redirects]
+    baseName = '_redirects'
+    isPlainText = true
+    mediaType = 'text/redirects'
+    root = true
+[outputs]
+  home = ['html', 'redirects']
