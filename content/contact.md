@@ -1,6 +1,6 @@
 ---
 title: Contact ʕ•ᴥ•ʔﾉ♡
-alias:
+aliases:
 - contact
 date: 2026-04-21T05:20:00+08:00
 description: 'Reach out & know more about Ate Bear'
