@@ -12,7 +12,7 @@ showLastMod: true
 > [!CAUTION] Some links might be broken
 > 
 
-> [!TIP]+ This is a helpful tip!
+> [!TIP]- This is a helpful tip!
 > Here is a helpful tip.
 
 <br>
