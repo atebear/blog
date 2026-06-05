@@ -124,9 +124,13 @@ small {
     font-size: 1.5em;
 }
 
-h1.blog-title {
+h1.page-title, h1.blog-title {
     font-weight: bold;
     padding-top: 20px;
+}
+
+br {
+    display: inline-block !important;
 }
 
 .inline {
@@ -195,12 +199,13 @@ ul.blog-posts h1 {
 /*details { }*/
 
 /* target the summary element */
-details > summary {
-    padding-top: 2px;
-}
+/*details > summary { }*/
 
 /* target the children of the summary element */
-/*details > summary > * { }*/
+details > summary > * {
+    padding-top: 0;
+    margin-top: 0;
+}
 
 /* target the content */
 /*details > :not(summary) { }*/
