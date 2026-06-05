@@ -1,7 +1,7 @@
 ---
 title: About ʕ •ᴥ•ʔゝ☆
 alias:
-- me
+- /me
 date: 2026-05-30T01:35:00+08:00
 description: ''
 draft: false
