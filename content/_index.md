@@ -7,15 +7,13 @@ showLastMod: true
 
 <br>
 
-<details>
-<summary>Welcome to my cave!</summary>
+{{< details summary="Welcome to my cave!" >}}
 <small>This blog is a collection of notes about my life, my Bear family, internet adventures, and small thoughts I want to keep somewhere.<br>&nbsp;</small>
-</details>
+{{< /details >}}
 
-<details>
-<summary>I’m Ate Bear 🧸</summary>
+{{< details summary="I’m Ate Bear 🧸" >}}
 <small>“Ate Bear” is a pen name I use for privacy, so while the bear theme may sound playful, the stories and experiences here are real.</small>
-</details>
+{{< /details >}}
 
 ![“Ate” means older sister in Tagalog. (Not the past tense of eating. No bears were harmed.)](https://atebear.pages.dev/images/minimalist-ate-bear-meme-banner.png)
 
