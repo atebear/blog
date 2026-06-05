@@ -192,15 +192,15 @@ ul.blog-posts h1 {
 }
 
 /* target the details element */
-details { }
+/*details { }*/
 
 /* target the summary element */
 details > summary {
-    margin-top: 2px;
+    padding-top: 2px;
 }
 
 /* target the children of the summary element */
-details > summary > * { }
+/*details > summary > * { }*/
 
 /* target the content */
-details > :not(summary) { }
+/*details > :not(summary) { }*/
