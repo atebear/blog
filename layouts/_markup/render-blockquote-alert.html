@@ -9,36 +9,18 @@
 {{ $type := .AlertType }}
 {{ $title := .AlertTitle }}
 {{ $text := .Text }}
-{{ $sign := .AlertSign }}
 {{ $icon := or (index $emojis $type) "💡" }}
-{{ $isFoldable := or (eq $sign "+") (eq $sign "-") }}
-{{ $isOpen := eq $sign "+" }} <!-- '+' is open, '-' is closed by default -->
 
-{{ if $isFoldable }}
-  <details class="alert alert-{{ $type }} {{ if $isOpen }}open{{ end }}">
-    <summary class="alert-trigger">
-      <span class="alert-icon">{{ $icon }}</span>
-      <span class="alert-title">
-        {{ if $title }}{{ $title }}{{ else }}{{ title $type }}{{ end }}
-      </span>
-      <span class="alert-sign">{{ if $isOpen }}▼{{ else }}▶{{ end }}</span>
-    </summary>
+<div class="alert alert-{{ $type }}">
+  <div class="alert-icon">{{ $icon }}</div>
+  <div class="alert-content">
+    {{ if $title }}
+      <strong>{{ $title }}</strong>
+    {{ else }}
+      <strong>{{ title $type }}</strong>
+    {{ end }}
     <div class="alert-body">
       {{ $text }}
     </div>
-  </details>
-{{ else }}
-  <div class="alert alert-{{ $type }}">
-    <div class="alert-icon">{{ $icon }}</div>
-    <div class="alert-content">
-      {{ if $title }}
-        <strong>{{ $title }}</strong>
-      {{ else }}
-        <strong>{{ title $type }}</strong>
-      {{ end }}
-      <div class="alert-body">
-        {{ $text }}
-      </div>
-    </div>
   </div>
-{{ end }}
+</div>
