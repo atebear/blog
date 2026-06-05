@@ -60,7 +60,7 @@ I finally achieved that in 2023 🎉 when I discovered static site generators li
 
 So technically, with [GitHub](https://github.com), [Hugo](https://gohugo.io), and the [Hugo-BearBlog theme](https://github.com/janraasch/hugo-bearblog), I can create a BearBlog-style website completely from scratch.
 
-==No analytics. No unnecessary extras. Just simple blogging.==
+<mark>No analytics. No unnecessary extras. Just simple blogging.</mark>
 
 Not all of [BearBlog.dev](https://bearblog.dev)’s features are there, of course, but it’s definitely doable. I can manage 😌
 
