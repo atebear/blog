@@ -71,7 +71,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 [menus]
   [[menus.main]]
     name = '[about]'
-    pageRef = '/me'
+    pageRef = '/about'
     weight = 10
   [[menus.main]]
     name = '[contact]'
