@@ -9,8 +9,7 @@ showLastMod: true
 > [!WARNING]
 > This website is still under construction 🚧
 
-> [!CAUTION]
-> Some links might be broken <i class="fa fa-link-broken"></i>
+> [!CAUTION] Some links might be broken 
 
 <br>
 
