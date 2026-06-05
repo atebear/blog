@@ -3,7 +3,9 @@ title: "" # menu: "main" weight: 1
 showLastMod: true
 ---
 
-<small>ℹ️ This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev). For inquiries, send an email at [atebearblog@proton.me](mailto:atebearblog@proton.me)</small>
+> [!NOTE] 
+> <small> This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev)\
+> For inquiries, visit [/contact](/contact) page.</small>
 
 <br>
 
