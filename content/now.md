@@ -8,10 +8,10 @@ draft: false
 showLastMod: true
 ---
 
-<details><summary><b><small>Welcome to my Now page! ˙𐃷˙</small></b></summary>
+{{< details summary="<b><small>Welcome to my Now page! ˙𐃷˙</small></b>" >}}
 <small><b>ℹ️ What is a "Now" page?</b><br>
 Think of it as a more relevant and interesting "About" page.<br>Inspired by <a href="https://nownownow.com">nownownow.com</a></small>
-</details>
+{{< /details >}}
 
 <small>Here I keep an up-to-date list of the things I'm focusing on and what I'm doing.</small>
 
