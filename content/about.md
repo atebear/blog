@@ -5,6 +5,7 @@ alias:
 date: 2026-05-30T01:35:00+08:00
 description: ''
 draft: false
+showLastMod: true
 ---
 
 Welcome to **Ate Bear Blog ʕ•ᴥ•ʔ**!
