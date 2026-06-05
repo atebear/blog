@@ -19,9 +19,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
   notes = "/notes/:contentbasename/"
   tags = "/tags/:slug"
-
-# Enable using Aliases
-disableAliases = true
+  disablealiases = true # Enable using Aliases
 
 [params]
   # Used in the meta data of generated html
