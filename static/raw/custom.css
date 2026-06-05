@@ -222,6 +222,7 @@ details > :not(summary) {
 }
 
 /* Alerts / Callouts / Admonition */
+/* Base Alert Styles */
 .alert {
   display: flex;
   gap: .5rem;
@@ -232,6 +233,7 @@ details > :not(summary) {
   background-color: #f8f9fa;
 }
 
+/* Specific Types */
 .alert-note, .alert-note > * {
   border-color: #2196f3;
   background-color: #e3f2fd;
@@ -262,6 +264,53 @@ details > :not(summary) {
   color: #b71c1c !important;
 }
 
+/* Foldable Alert Styles */
+details.alert {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+}
+
+details.alert summary {
+  list-style: none; /* Hide default triangle */
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem;
+  cursor: pointer;
+  border-radius: 6px;
+  background-color: inherit; /* Inherits from alert type */
+  border-left: 4px solid; /* Inherits border */
+  font-weight: bold;
+  user-select: none;
+}
+
+/* Hide default marker in Chrome/Safari */
+details.alert summary::-webkit-details-marker {
+  display: none;
+}
+
+details.alert summary:hover {
+  opacity: 0.9;
+}
+
+.alert-body {
+  padding: 1rem;
+  margin-top: 0;
+  padding-left: 2.5rem; /* Indent content under summary */
+  border-top: 1px solid rgba(0,0,0,0.1);
+}
+
+/* Re-apply border to open details to maintain visual consistency */
+details.alert[open] > summary {
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  border-radius: 6px 6px 0 0;
+}
+
+details.alert[open] > .alert-body {
+  border-radius: 0 0 6px 6px;
+}
+
 .alert-icon {
   font-size: 1.2rem;
   flex-shrink: 0;
@@ -271,7 +320,7 @@ details > :not(summary) {
   flex-grow: 1;
 }
 
-.alert-body {
+/*.alert-body {
   margin-top: 0.25rem;
   padding: 0;
-}
+}*/
