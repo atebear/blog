@@ -1,5 +1,5 @@
 ---
-title: About ʕ•ᴥ•ʔ
+title: About ʕ •ᴥ•ʔゝ☆
 alias:
 - about
 date: 2026-05-30T01:35:00+08:00
