@@ -12,6 +12,9 @@ showLastMod: true
 > [!CAUTION] Some links might be broken
 > 
 
+> [!TIP]+ This is a helpful tip!
+> Here is a helpful tip.
+
 <br>
 
 {{< details summary="Welcome to my cave!" >}}
