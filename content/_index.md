@@ -1,5 +1,6 @@
 ---
 title: "" # menu: "main" weight: 1
+aliases:
 showLastMod: true
 ---
 
