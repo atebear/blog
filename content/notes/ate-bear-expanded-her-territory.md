@@ -3,7 +3,7 @@ title: Ate Bear Expanded Her Territory ʕ•ᴥ•ʔ
 date: 2026-05-29T21:15:00+08:00
 description: Ate Bear discovers Now pages, builds a backup website, talks about indie web adventures, and slowly expands her little corner of the internet 🐻
 draft: false
-type: post
+type: blog
 tags:
 - indie-web
 - site-updates
