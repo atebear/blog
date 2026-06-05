@@ -1,12 +1,10 @@
-{{- if site.IsDefault -}}
-  {{- range hugo.Sites -}}
-    {{- range $p := .Pages -}}
-      {{- range .Aliases -}}
-        {{- if findRE `\s` . -}}
-          {{- errorf "One of the front matter aliases in %q contains whitespace" $p.String -}}
-        {{- end -}}
-        {{- printf "%s %s 301\n" . $p.RelPermalink -}}
-      {{- end -}}
+{{- /* Single site redirects */ -}}
+{{- range .Site.RegularPages -}}
+  {{- range .Params.aliases -}}
+    {{- /* Optional: Check for whitespace in aliases */ -}}
+    {{- if findRE `\s` . -}}
+      {{- errorf "One of the front matter aliases in %q contains whitespace" . -}}
     {{- end -}}
+    {{- printf "%s %s 301\n" . .RelPermalink -}}
   {{- end -}}
 {{- end -}}
