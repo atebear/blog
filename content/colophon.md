@@ -18,9 +18,10 @@ This site is a static website built for speed, privacy, and zero cost.
 | **Generator** | [Hugo](https://gohugo.io) (Go) |
 | **Theme** | [Hugo-BearBlog](https://github.com/janraasch/hugo-bearblog) (Customized) |
 | **Styling** | Custom CSS (based on [BearBlog](https://bearblog.dev)'s *Typewriter* theme) |
+| **Fonts** | ['Special Elite'](https://fonts.google.com/specimen/Special+Elite/about?preview.script=Latn) and [monospace](https://fonts.google.com/specimen/Space+Mono/about?preview.script=Latn) |
 | **Hosting** | [Cloudflare Pages](https://pages.cloudflare.com) |
 | **Version Control** | [GitHub](https://github.com) (Public Repository) |
-| **Deployment** | Direct Connect (GitHub → Cloudflare) |
+| **Deployment** | Direct Connect ([GitHub](https://github.com) → [Cloudflare](https://cloudflare.com)) |
 
 ### Key Details
 
