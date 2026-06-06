@@ -5,7 +5,7 @@ draft: false
 showLastMod: true
 ---
 
-<small>This my idea page where I in-store the things I want to make, or concepts I'm considering. (See [slashpages.net](https://slashpages.net) for more info)</small>
+<small>This my ideas page where I listed down the things I want to make, or concepts I'm considering. (See [slashpages.net](https://slashpages.net) for more info)</small>
 
 Ideas I have:
 
