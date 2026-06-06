@@ -20,7 +20,7 @@ This page is called ***Slashes*** for it's a collection of my *slash pages*.
 - [/colophon](/colophon)
 - [/contact](/contact)
 - [/for](/for) or [/dedication](/dedication)
-- /ideas
+- [/ideas](/ideas)
 - /interest
 - /languages
 - /links or /bookmarks
