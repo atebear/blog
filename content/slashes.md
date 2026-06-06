@@ -9,13 +9,13 @@ draft: false
 showLastMod: true
 ---
 
-Slash pages are common pages you can add to your website\
-<small>(See [slashpages.net](https://slashpages.net) for more info)</small>
+This page is called ***Slashes*** for it it a collection of my *slash pages*.
+
+> <small>Slash pages are common pages you can add to your website. &mdash;[slashpages.net](https://slashpages.net)</small>
 
 - [/about](/about)
 - [/ai](/ai)
 - [/blank](/blank)
-- /blogroll
 - [/changelog](/changelog) or [/log](/changelog)
 - [/colophon](/colophon)
 - [/contact](/contact)
