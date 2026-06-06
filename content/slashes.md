@@ -19,7 +19,7 @@ This page is called ***Slashes*** for it's a collection of my *slash pages*.
 - [/changelog](/changelog) or [/log](/changelog)
 - [/colophon](/colophon)
 - [/contact](/contact)
-- /for or /dedication
+- [/for](/for) or [/dedication](/dedication)
 - /ideas
 - /interest
 - /languages
