@@ -13,11 +13,11 @@ Slash pages are common pages you can add to your website\
 <small>(See [slashpages.net](https://slashpages.net) for more info)</small>
 
 - [/about](/about)
-- /ai
+- [/ai](/ai)
 - [/blank](/blank)
 - /blogroll
 - [/changelog or /log](/changelog)
-- /colophon
+- [/colophon]
 - [/contact](/contact)
 - /ideas
 - /interest
