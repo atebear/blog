@@ -9,9 +9,9 @@ draft: false
 showLastMod: true
 ---
 
-This page is called ***Slashes*** for it it a collection of my *slash pages*.
+This page is called ***Slashes*** for it's a collection of my *slash pages*.
 
-> <small>Slash pages are common pages you can add to your website. &mdash;[slashpages.net](https://slashpages.net)</small>
+> <small>**Slash pages** are common pages you can add to your website. &mdash;[slashpages.net](https://slashpages.net)</small>
 
 - [/about](/about)
 - [/ai](/ai)
