@@ -9,6 +9,6 @@ showLastMod: false
 
 ᯓ➤ I will keep making slash pages until I finished all the slash pages on [my list](/slashes). &mdash; 2026/06/06
 
-<small>Last edited: {{< lastmod >}}</small>
+<small>{{< lastmod >}}</small>
 
 <small>You can check my [/now](/now) page to see my progress.</small>
