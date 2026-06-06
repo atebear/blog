@@ -1,7 +1,10 @@
 ---
 title: Ate Bear Went Full Tech Nerd Again  🐻💻
-aliases: "/went-full-tech-nerd-again"
+aliases:
+- "/went-full-tech-nerd-again/"
 date: 2026-06-06T21:02:00+08:00
+draft: false
+type: blog
 tags:
 - indie-web
 - site-updates
