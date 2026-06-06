@@ -5,11 +5,11 @@ draft: false
 showLastMod: true
 ---
 
-> <small>This page &quot;describes how the site is made, with what tools, supporting what technologies&quot; (See [slashpages.net](https://slashpages.net) for more info).</small>
+> <small>A *colophon* is a page or section (typically in a footer) of a site that describes how the site is made, with what tools, supporting what technologies, and often published on personal sites at a top level `/colophon` page. &mdash;[indieweb.org](https://indieweb.org/colophon)</small>
 
-<br>
+Website address: https://atebear.pages.dev
 
-This site, https://atebear.pages.dev, is a static website built for speed, privacy, and zero cost.
+This site is a static website built for speed, privacy, and zero cost.
 
 ### Technology Stack
 
@@ -31,3 +31,5 @@ This site, https://atebear.pages.dev, is a static website built for speed, priva
 
 ### Philosophy
 Built to prove that a professional, fast, and private blog doesn't require paid platforms or data tracking.
+
+---
