@@ -25,24 +25,22 @@ Inspired by [nownownow.com](https://nownownow.com)
 <small>I love Hugo and I can't believe I'm learning it just now. Well, maybe because I had to do it this time. 😅 2026/06/03</small>
 {{< /details >}}
 
-{{< details summary="🏗️ Building my own Status.cafe" >}}
-<small>Yes, you read that right! 😊 I'm making my own Status.cafe and it'll only be for my site's use. But don't worry, I'll share my journey once I finished it and will help you how to build your own. 2026/06/01</small>
-{{< /details >}}
+- 🔗 Making everything on [my slash pages list](/slashes). 2026/06/06
 
 <br>
 
 ## 🚀 Focusing on...
-{{< details summary="🐻 Customizing my BearBlog site" >}}
-Considered it done as for now ✅️ Done: 2026/06/03
+{{< details summary="🏗️ Building my own Status.cafe" >}}
+<small>Yes, you read that right! 😊 I'm making my own Status.cafe and it'll only be for my site's use. But don't worry, I'll share my journey once I finished it and will help you how to build your own. ✅️ Done: 2026/06/01 (but I haven’t published it yet)</small>
 {{< /details >}}
 
-{{< details summary="🔲 Customizing my backup site" >}}
-STATUS: Up and running but still working on it 🧸
+{{< details summary="🌙 Integrating Dark Mode" >}}
+This theme's all white background sometimes hurts my eyes 🫩 so having a dark mode version is a MUST!
 {{< /details >}}
 
 <br>
 
-## 🎯 Goals
+## 🎯 Finished Goals
 {{< details summary="🌐 Backup website for my BearBlog" >}}
 ╰┈➤ˎˊ˗ [atebear.pages.dev](https://atebear.pages.dev) ✅️ Done: 2026/05/28
 {{< /details >}}
@@ -51,12 +49,16 @@ STATUS: Up and running but still working on it 🧸
 ╰┈➤ˎˊ˗ [Check them out here](/collections) ✅️ Done: 2026/05/31
 {{< /details >}}
 
-{{< details summary="📂 Going Open-Source" >}}
-I'm planning to open-sourced my backup and status sites. Just stay tuned. 2026/06/03
+{{< details summary="🐻 Customizing my BearBlog site" >}}
+Considered it done as for now ✅️ Done: 2026/06/03
 {{< /details >}}
 
-{{< details summary="🌙 Integrating Dark Mode" >}}
-This theme's all white background sometimes hurts my eyes 🫩 so having a dark mode version is a MUST!
+{{< details summary="📂 Going Open-Source" >}}
+I'm planning to open-sourced my backup and status sites. Just stay tuned. ✅️ Done: 2026/06/04
+{{< /details >}}
+
+{{< details summary="⚙️ Customizing my backup site" >}}
+STATUS: Up and running but still working on it 🧸 ✅️ Done: 2026/06/05
 {{< /details >}}
 
 <br>
