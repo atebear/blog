@@ -25,7 +25,7 @@ Inspired by [nownownow.com](https://nownownow.com)
 <small>I love Hugo and I can't believe I'm learning it just now. Well, maybe because I had to do it this time. 😅 2026/06/03</small>
 {{< /details >}}
 
-- 🔗 Making everything on [my slash pages list](/slashes). 2026/06/06
+- 🔗 Making all slash pages on my [list](/slashes). 2026/06/06
 
 <br>
 
@@ -54,7 +54,7 @@ Considered it done as for now ✅️ Done: 2026/06/03
 {{< /details >}}
 
 {{< details summary="📂 Going Open-Source" >}}
-I'm planning to open-sourced my backup and status sites. Just stay tuned. ✅️ Done: 2026/06/04
+I'm planning to open-sourced my backup <strike>and status sites</strike>. Just stay tuned. ✅️ Done: 2026/06/04
 {{< /details >}}
 
 {{< details summary="⚙️ Customizing my backup site" >}}
