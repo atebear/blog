@@ -9,7 +9,7 @@ draft: false
 showLastMod: true
 ---
 
-This page is called ***Slashes*** for it's a collection of my *slash pages*.
+This page is called ***Slashes***. It's a list of my *slash pages*.
 
 > <small>**Slash pages** are common pages you can add to your website. &mdash;[slashpages.net](https://slashpages.net)</small>
 
@@ -22,9 +22,9 @@ This page is called ***Slashes*** for it's a collection of my *slash pages*.
 - [/for](/for) or [/dedication](/dedication)
 - [/ideas](/ideas)
 - /interest
-- /languages
+- [/languages](/languages)
 - /links or /bookmarks
-- /next
+- [/next](/next)
 - [/now](/now)
 - /pfp
 - /posse
