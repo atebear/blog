@@ -41,7 +41,7 @@ Well, I did!
 
 I listed all of them on my [/slashes](/slashes) page. If you can click a page, that means it's available. If you can't, it's either still in my drafts or I haven't created it yet.
 
-> [!NOTE] For more info, go to Slash Pages website made by Robb Knight: [slashpages.net](https://slashpages.net)
+> [!NOTE] *<small>For more info, go to Slash Pages website made by Robb Knight: [slashpages.net](https://slashpages.net)</small>*
 
 ...
 
@@ -61,7 +61,7 @@ Originally, my backup lived in a private repository on my personal [GitHub](http
 
 So instead, I created a brand new GitHub account under the username **[atebear](https://github.com/atebear)**.
 
-> [!NOTE] GitHub account: [github.com/atebear](https://github.com/atebear)
+> [!NOTE] *<small>GitHub account: [github.com/atebear](https://github.com/atebear)</small>*
 
 From there, I created a new public repository, installed [Hugo-BearBlog](https://github.com/janraasch/hugo-bearblog) as a submodule, transferred everything from my private repository, and started backing up [my BearBlog site](https://ate.bearblog.dev) there instead.
 
@@ -71,7 +71,7 @@ I transferred everything first without changing anything.
 
 Then over the last two days, I updated everything to match the current version of my site.
 
-> [!NOTE] Repository: [github.com/atebear/atebear](https://github.com/atebear/atebear)
+> [!NOTE] *<small>Repository: [github.com/atebear/atebear](https://github.com/atebear/atebear)</small>*
 
 While doing that, I also noticed Hugo-BearBlog was missing some features that [BearBlog](https://bearblog.dev) has, so I decided to implement them myself.
 
@@ -92,7 +92,7 @@ At this point...
 
 I've customized almost every part of the theme. 🤭
 
-> [!NOTE] Detailed changelog: [github.com/atebear/atebear/wiki](https://github.com/atebear/atebear/wiki#changelog)
+> [!NOTE] *<small>Detailed changelog: [github.com/atebear/atebear/wiki](https://github.com/atebear/atebear/wiki#changelog)</small>*
 
 ...
 
@@ -122,6 +122,8 @@ Finally, I added a **BY-NC-ND** badge by [Creative Commons](https://creativecomm
 </a>
 
 ...
+
+If you're curious, feel free to check them out!
 
 That's all for today's little update.
 
