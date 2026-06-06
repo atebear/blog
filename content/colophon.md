@@ -5,7 +5,7 @@ draft: false
 showLastMod: true
 ---
 
-> <small>A *colophon* is a page or section (typically in a footer) of a site that describes how the site is made, with what tools, supporting what technologies, and often published on personal sites at a top level `/colophon` page. &mdash;[indieweb.org](https://indieweb.org/colophon)</small>
+> <small>A **colophon** is a page or section (typically in a footer) of a site that describes how the site is made, with what tools, supporting what technologies, and often published on personal sites at a top level **/colophon** page. &mdash;[indieweb.org](https://indieweb.org/colophon)</small>
 
 Website address: https://atebear.pages.dev
 
