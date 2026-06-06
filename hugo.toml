@@ -96,9 +96,14 @@ ignoreErrors = ["error-disable-taxonomy"]
     pageRef = '/collections/'
     weight = 60
   [[menus.main]]
-    name = '[log]'
-    pageRef = '/log/'
+    name = '[colophon]'
+    pageRef = '/colophon/'
     weight = 70
+
+#  [[menus.main]]
+#    name = 'Products'
+#    pageRef = '/products'
+#    weight = 80
 #  [[menus.main]]
 #    name = 'Hardware'
 #    pageRef = '/products/hardware'
@@ -109,10 +114,6 @@ ignoreErrors = ["error-disable-taxonomy"]
 #    pageRef = '/products/software'
 #    parent = 'Products'
 #    weight = 2
-#  [[menus.main]]
-#    name = '[now]'
-#    pageRef = '/now'
-#    weight = 30
 #  [[menus.main]]
 #    name = 'GitHub'
 #    pre = '<i class="fa fa-github"></i>'
