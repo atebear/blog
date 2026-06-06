@@ -17,29 +17,26 @@ Slash pages are common pages you can add to your website\
 - [/blank](/blank)
 - /blogroll
 - [/changelog or /log](/changelog)
-- [/colophon]
+- [/colophon](/colophon)
 - [/contact](/contact)
 - /ideas
 - /interest
 - /languages
 - /links or /bookmarks
 - /next
-- /nope
 - [/now](/now)
 - /pfp
 - /posse
 - /postroll
 - /questions 
-- /save or /referrals
+- /referrals
 - /since
 - [/sitemap](/sitemap.xml)
 - [/slashes](/slashes)
 - /someday
 - /tils or /ways
-- /tip or /pay or /coffee
-- /top4
+- /tip or /coffee
 - /uses
 - /wish
-- /yep
 
 ＼ʕ •ᴥ•ʔ／
