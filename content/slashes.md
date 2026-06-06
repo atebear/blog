@@ -16,9 +16,10 @@ Slash pages are common pages you can add to your website\
 - [/ai](/ai)
 - [/blank](/blank)
 - /blogroll
-- [/changelog or /log](/changelog)
+- [/changelog](/changelog) or [/log](/changelog)
 - [/colophon](/colophon)
 - [/contact](/contact)
+- /for or /dedication
 - /ideas
 - /interest
 - /languages
@@ -29,7 +30,7 @@ Slash pages are common pages you can add to your website\
 - /posse
 - /postroll
 - /questions 
-- /referrals
+- /save or /referrals
 - /since
 - [/sitemap](/sitemap.xml)
 - [/slashes](/slashes)
