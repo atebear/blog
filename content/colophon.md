@@ -9,7 +9,7 @@ showLastMod: true
 
 <br>
 
-This site is a static website built for speed, privacy, and zero cost.
+This site, https://atebear.pages.dev, is a static website built for speed, privacy, and zero cost.
 
 ### Technology Stack
 
