@@ -4,8 +4,8 @@ aliases:
 showLastMod: true
 ---
 
-> [!IMPORTANT] This is the **backup** site for [Ate.BearBlog.dev](https://ate.bearblog.dev)
-> 
+> [!IMPORTANT] ʕ•ᴥ•ʔ Ate Bear Blog officially moved from [Ate.BearBlog.dev](https://ate.bearblog.dev) to here: [AteBear.pages.dev](https://atebear.pages.dev)!
+> For more info, read [ʕ•ᴥ•ʔ Ate Bear Chose Her Own Cave 🐻🏕️✨](notes/ate-bear-chose-her-own-cave)
 
 <br>
 
