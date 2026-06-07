@@ -4,6 +4,11 @@ date: 2026-06-07T23:41:00+08:00
 description: After much thought, Ate Bear decided to make her own little cave the primary home of her adventures on the indie web.
 draft: false
 type: blog
+tags:
+- bearblog
+- update-from-my-cave
+- indie-web
+- site-updates 
 ---
 
 Hey Bear 👋
@@ -14,7 +19,7 @@ After a lot of thought and consideration, I've decided to make [atebear.pages.de
 
 I want to own my content and have full control over my little corner of the web.
 
-My site is ==open source, decentralized, free, and doesn't track its visitors.== It also means I only need to maintain one site instead of juggling multiple homes for the same blog.
+My site is <mark>open source, decentralized, free, and doesn't track its visitors.</mark> It also means I only need to maintain one site instead of juggling multiple homes for the same blog.
 
 Don't worry—Ate Bear Blog isn't going anywhere.
 
