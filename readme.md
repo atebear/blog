@@ -3,7 +3,7 @@ This is the **Backup site** for **ʕ•ᴥ•ʔ Ate Bear Blog**
 > ╰┈➤ˎˊ˗ 🌐 [https://Ate.BearBlog.dev](https://ate.bearblog.dev)
 
 > [!NOTE]
-> - Repository: [github.com/atebear/atebear](https://github.com/atebear/atebear)
+> - Repository: [github.com/atebear/blog](https://github.com/atebear/blog)
 > - Deployment: [atebear.pages.dev](https://atebear.pages.dev)
 >     - Deployed on [CloudFlare Pages](https://pages.dev)
 > - Author: [Ate Bear](https://github.com/atebear)
@@ -11,7 +11,7 @@ This is the **Backup site** for **ʕ•ᴥ•ʔ Ate Bear Blog**
 > - Theme: [Hugo-BearBlog](https://github.com/janraasch/hugo-bearblog)
 >     - Based on [BearBlog.dev](https://bearblog.dev)
 >     - Powered by [Hugo](https://gohugo.io/)
-> - Wiki: [github.com/atebear/atebear/wiki](https://github.com/atebear/atebear/wiki)
+> - Wiki: [github.com/atebear/blog/wiki](https://github.com/atebear/blog/wiki)
 
 > [!TIP]
-> FOR COMPLETE **CHANGELOG**, GO TO [WIKI](https://github.com/atebear/atebear/wiki#changelog)
+> FOR COMPLETE **CHANGELOG**, GO TO [WIKI](https://github.com/atebear/blog/wiki#changelog)
