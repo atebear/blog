@@ -71,7 +71,7 @@ I transferred everything first without changing anything.
 
 Then over the last two days, I updated everything to match the current version of my site.
 
-> [!NOTE] *<small>Repository: [github.com/atebear/atebear](https://github.com/atebear/atebear)</small>*
+> [!NOTE] *<small>Repository: [github.com/atebear/blog](https://github.com/atebear/blog)</small>*
 
 While doing that, I also noticed Hugo-BearBlog was missing some features that [BearBlog](https://bearblog.dev) has, so I decided to implement them myself.
 
@@ -92,7 +92,7 @@ At this point...
 
 I've customized almost every part of the theme. 🤭
 
-> [!NOTE] *<small>Detailed changelog: [github.com/atebear/atebear/wiki](https://github.com/atebear/atebear/wiki#changelog)</small>*
+> [!NOTE] *<small>Detailed changelog: [github.com/atebear/blog/wiki](https://github.com/atebear/blog/wiki#changelog)</small>*
 
 ...
 
