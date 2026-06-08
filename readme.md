@@ -1,6 +1,7 @@
 > [!IMPORTANT]
-This is the **Backup site** for **ʕ•ᴥ•ʔ Ate Bear Blog**
-> ╰┈➤ˎˊ˗ 🌐 [https://Ate.BearBlog.dev](https://ate.bearblog.dev)
+This is the **~~Backup~~ site** for **ʕ•ᴥ•ʔ Ate Bear Blog**\
+> ~~╰┈➤ˎˊ˗ 🌐 [https://Ate.BearBlog.dev](https://ate.bearblog.dev)~~\
+> ╰┈➤ˎˊ˗ 🌐 [https://AteBear.pages.dev](https://atebear.pages.dev)
 
 > [!NOTE]
 > - Repository: [github.com/atebear/blog](https://github.com/atebear/blog)
