@@ -65,7 +65,7 @@ So instead, I created a brand new GitHub account under the username **[atebear](
 
 From there, I created a new public repository, installed [Hugo-BearBlog](https://github.com/janraasch/hugo-bearblog) as a submodule, transferred everything from my private repository, and started backing up [my BearBlog site](https://ate.bearblog.dev) there instead.
 
-The last backup in my private repository was from May 31, so it was already outdated.
+The last backup in my private repository was from May 30, so it was already outdated.
 
 I transferred everything first without changing anything.
 
