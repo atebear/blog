@@ -1,5 +1,5 @@
 baseURL = "https://atebear.pages.dev/"
-theme = 'hugo-bearblog'
+theme = "hugo-bearblog"
 
 # Basic metadata configuration
 title = "ʕ•ᴥ•ʔ Ate Bear Blog"
@@ -58,7 +58,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 # Configure markup highlighter to match "Bearblog" aesthetics, see https://gohugo.io/configuration/markup/#highlight
 [markup]
   [markup.highlight]
-    style = 'friendly'
+    style = "friendly"
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
@@ -72,79 +72,86 @@ ignoreErrors = ["error-disable-taxonomy"]
 # Menus
 [menus]
   [[menus.main]]
-    name = '[about]'
-    pageRef = '/about/'
+    name = "[about]"
+    pageRef = "/about/"
     weight = 10
   [[menus.main]]
-    name = '[contact]'
-    pageRef = '/contact/'
+    name = "[contact]"
+    pageRef = "/contact/"
     weight = 20
   [[menus.main]]
-    name = '[notes]'
-    pageRef = '/notes/'
+    name = "[notes]"
+    pageRef = "/notes/"
     weight = 30
   [[menus.main]]
-    name = '[now]'
-    pageRef = '/now/'
+    name = "[now]"
+    pageRef = "/now/"
     weight = 40
   [[menus.main]]
-    name = '[slashes]'
-    pageRef = '/slashes/'
+    name = "[slashes]"
+    pageRef = "/slashes/"
     weight = 50
   [[menus.main]]
-    name = '[collections]'
-    pageRef = '/collections/'
+    name = "[collections]"
+    pageRef = "/collections/"
     weight = 60
   [[menus.main]]
-    name = '[colophon]'
-    pageRef = '/colophon/'
+    name = "[colophon]"
+    pageRef = "/colophon/"
     weight = 70
+  [[menu.main]]
+    name = "[status]"
+    url = "/status/"
+    weight = 80
 
 #  [[menus.main]]
-#    name = 'Products'
-#    pageRef = '/products'
+#    name = "Products
+#    pageRef = "/products"
 #    weight = 80
 #  [[menus.main]]
-#    name = 'Hardware'
-#    pageRef = '/products/hardware'
-#    parent = 'Products'
+#    name = "Hardware"
+#    pageRef = "/products/hardware"
+#    parent = "Products"
 #    weight = 1
 #  [[menus.main]]
-#    name = 'Software'
-#    pageRef = '/products/software'
-#    parent = 'Products'
+#    name = "Software"
+#    pageRef = "/products/software"
+#    parent = "Products"
 #    weight = 2
 #  [[menus.main]]
-#    name = 'GitHub'
-#    pre = '<i class="fa fa-github"></i>'
-#    url = 'https://github.com/atebear/'
+#    name = "GitHub"
+#    pre = "<i class="fa fa-github"></i>"
+#    url = "https://github.com/atebear/"
 #    weight = 40
 #    [menus.main.params]
-#      rel = 'external'
+#      rel = "external"
 
 #  [[menus.footer]]
-#    name = 'Terms'
-#    pageRef = '/terms'
+#    name = "Terms"
+#    pageRef = "/terms"
 #    weight = 10
 #  [[menus.footer]]
-#    name = 'Privacy'
-#    pageRef = '/privacy'
+#    name = "Privacy"
+#    pageRef = "/privacy"
 #    weight = 20
 
 [sitemap]
-  changeFreq = 'daily'
+  changeFreq = "daily"
   disable = false
-  filename = 'sitemap.xml'
+  filename = "sitemap.xml"
   priority = -1
 
 [mediaTypes]
-  [mediaTypes.'text/redirects']
-    delimiter = ''
+  [mediaTypes."text/redirects"]
+    delimiter = ""
 [outputFormats]
   [outputFormats.redirects]
-    baseName = '_redirects'
+    baseName = "_redirects"
     isPlainText = true
-    mediaType = 'text/redirects'
+    mediaType = "text/redirects"
     root = true
 [outputs]
-  home = ['html', 'redirects']
+  home = ["html", "redirects"]
+
+[pagination]
+  pagerSize = 20
