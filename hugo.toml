@@ -99,7 +99,7 @@ ignoreErrors = ["error-disable-taxonomy"]
     name = "[colophon]"
     pageRef = "/colophon/"
     weight = 70
-  [[menu.main]]
+  [[menus.main]]
     name = "[status]"
     url = "/status/"
     weight = 80
