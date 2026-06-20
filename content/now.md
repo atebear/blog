@@ -35,8 +35,9 @@ For more info, go to Slash Pages website made by Robb Knight: <a href="https://s
 
 ## 🚀 Focusing on...
 {{< details summary="🏗️ Building my own Status.cafe" >}}
-<small>Yes, you read that right! 😊 I'm making my own Status.cafe and it'll only be for my site's use. But don't worry, I'll share my journey once I finished it and will help you how to build your own. ✅️ Done: 2026/06/01 (but I haven’t published it yet)</small><br>
-Updates:
+<small>Yes, you read that right! 😊 I'm making my own Status.cafe and it'll only be for my site's use. But don't worry, I'll share my journey once I finished it and will help you how to build your own. ✅️ Done: 2026/06/01 (but I haven’t published it yet)</small>\
+
+***Updates:***
 - 2026/06/09 &mdash; Published the project on GitHub (See repository [here](https://github.com/atebear/status-cave))
 - 2026/06/13 &mdash; Deployed and tested the project (See website [here](https://atebear.netlify.app/cave.html))
 - 2026/06/20 &mdash; Abandoned the project and transferred/incorporated the project at this blogsite (Check [status page](/status/)) → ✅️ Done
