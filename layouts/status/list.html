@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<h1 class="page-title">Status Cave 🏕</h1>
+
+<p>Small notes from Ate Bear's cave.</p>
+
+<br>
+
+{{ range .Paginator.Pages }}
+
+<article class="status-item">
+    <div class="status-meta">
+        {{ .Date.Format "Jan 02, 2006 @ 15:04" }}
+        {{ with .Params.mood }}
+        — {{ . }}
+        {{ end }}
+    </div>
+    <div class="status-text">
+        {{ .Content }}
+    </div>
+</article>
+
+{{ end }}
+
+<nav class="pagination">
+{{ if .Paginator.HasNext }}
+<a href="{{ .Paginator.Next.URL }}">
+Older statuses →
+</a>
+
+{{ end }}
+
+</nav>
+
+{{ end }}
